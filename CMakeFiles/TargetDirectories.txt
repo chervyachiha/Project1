@@ -1,0 +1,3 @@
+C:/Users/msi-pc/source/repos/project/CMakeFiles/sfml_sample.dir
+C:/Users/msi-pc/source/repos/project/CMakeFiles/ALL_BUILD.dir
+C:/Users/msi-pc/source/repos/project/CMakeFiles/ZERO_CHECK.dir
